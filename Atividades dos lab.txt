@@ -1,0 +1,15 @@
+LabCode 01
+
+
+Instruções
+Siga as instruções a seguir:
+
+Etapas
+-> Crie um arquivo usando o VIM chamado 4Linux.txt
+-> Escreva no arquivo 4Linux Open Software Specialists e salve a alteração
+
+ -> Dica:
+Com o VIM aberto:
+
+->  Use a tecla [Esc] para poder entrar no modo de comando
+->  Pressione [i] para poder entrar no modo inserção
